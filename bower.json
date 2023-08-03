@@ -1,0 +1,29 @@
+{
+  "name": "alexa-voice-service",
+  "main": "dist/avs.js",
+  "version": "0.0.9",
+  "homepage": "https://github.com/miguelmota/alexa-voice-service.js",
+  "authors": [
+    "Miguel Mota <hello@miguelmota.com>"
+  ],
+  "description": "Alexa Voice Service wrapper for the browser.",
+  "keywords": [
+    "amazon",
+    "alexa",
+    "skill",
+    "kit",
+    "echo",
+    "voice",
+    "ask",
+    "avs",
+    "speech"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "license": "MIT"
+}
